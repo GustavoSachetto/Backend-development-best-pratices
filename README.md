@@ -3,7 +3,7 @@ In the world that development is not a manual task anymore and pure IA does not 
 
 ## 1. Its architecture begins with the folder structure. 
 
-In the IA age complexes architeture tend to spend more tokens and in worst-case can to reduce its performance. This architecure is optimized solve this issue. Good old layered architecture.
+In the IA age complexes architecture tend to spend more tokens and in worst-case can to reduce its performance. This architecure is optimized solve this issue. Good old layered architecture.
 
 ```
 project folder
