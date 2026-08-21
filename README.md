@@ -1,7 +1,9 @@
 # Backend-development-best-pratices
 In the world that development is not a manual task anymore and pure IA does not deliver quality codes. 
 
-1. Its architecture begins with the folder structure. In the IA age complexes architeture tend to spend more tokens and in worst-case can to reduce its performance. This architecure is optimized solve this issue.
+## 1. Its architecture begins with the folder structure. 
+
+In the IA age complexes architeture tend to spend more tokens and in worst-case can to reduce its performance. This architecure is optimized solve this issue.
 
 ```
 project folder
